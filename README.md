@@ -20,3 +20,13 @@ This project targets a practical trade-off in ultrasound enhancement:
 ```bash
 pip install -r requirements.txt
 python scripts/run_grid_search.py
+# Data Folder
+
+This folder is intentionally empty in git.
+Please place your local test data here if needed.
+
+Expected formats:
+- *.nii / *.nii.gz (ultrasound images)
+- *.gt.nii / *.gt.nii.gz (ground truth masks)
+
+⚠️ Do not commit patient data.
