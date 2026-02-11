@@ -1,0 +1,23 @@
+{
+  "pairs": [
+    {
+      "nii": "D:/patients/patient0001_2CH_ED.nii.gz",
+      "gt": "D:/patients/patient0001_2CH_ED_gt.nii.gz"
+    },
+    {
+      "nii": "D:/patients/2patient0001_2CH_ES.nii.gz",
+      "gt": "D:/patients/2patient0001_2CH_ES_gt.nii.gz"
+    }
+  ],
+  "out_dir": "results",
+  "best_params": {
+    "lee_win": 7,
+    "noise_percentile": 20,
+    "edge_mix_coh": 0.8,
+    "edge_mix_grad": 0.2,
+    "alpha_base": 0.3,
+    "alpha_edge": 0.22,
+    "contrast_gain": 0.04,
+    "post_sigma": 0.4
+  }
+}
