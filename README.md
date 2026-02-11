@@ -15,6 +15,14 @@ This project targets a practical trade-off in ultrasound enhancement:
 - Automatic grid search for balanced parameters
 - Case-wise metrics: CNR, ENL, Edge ratio
 - Export: compare panels + CSV + best params
+## 🔄 Method Pipeline
+
+The overall workflow of our ultrasound enhancement framework is shown below:
+
+<p align="center">
+  <img src="iamge_mermaid.png" width="95%" alt="Ultrasound Enhancement Pipeline"/>
+</p>
+
 ## 📊 CAMUS Pilot Results (2 Cases)
 
 > Setting: Best parameters selected by automatic grid search.  
