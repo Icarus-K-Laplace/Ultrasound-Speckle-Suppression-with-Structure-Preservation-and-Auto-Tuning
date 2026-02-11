@@ -20,7 +20,7 @@ This project targets a practical trade-off in ultrasound enhancement:
 The overall workflow of our ultrasound enhancement framework is shown below:
 
 <p align="center">
-  <img src="iamge_mermaid.png" width="95%" alt="Ultrasound Enhancement Pipeline"/>
+  <img src="image_mermaid.png" width="95%" alt="Ultrasound Enhancement Pipeline"/>
 </p>
 
 ## 📊 CAMUS Pilot Results (2 Cases)
