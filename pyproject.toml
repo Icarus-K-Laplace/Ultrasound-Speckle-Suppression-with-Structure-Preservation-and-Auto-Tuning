@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ultraenhance"
+version = "0.1.0"
+description = "Ultrasound enhancement with speckle suppression, structure preservation, and grid search tuning."
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+  {name = "Your Name"}
+]
+dependencies = [
+  "numpy",
+  "pandas",
+  "opencv-python",
+  "SimpleITK",
+  "matplotlib"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
