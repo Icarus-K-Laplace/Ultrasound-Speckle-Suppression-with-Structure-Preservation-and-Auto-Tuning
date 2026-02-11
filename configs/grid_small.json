@@ -1,0 +1,10 @@
+{
+  "lee_win": [5, 7],
+  "noise_percentile": [15, 20],
+  "edge_mix_coh": [0.7, 0.8],
+  "edge_mix_grad": [0.3, 0.2],
+  "alpha_base": [0.2, 0.3],
+  "alpha_edge": [0.15, 0.22],
+  "contrast_gain": [0.0, 0.04],
+  "post_sigma": [0.0, 0.4]
+}
