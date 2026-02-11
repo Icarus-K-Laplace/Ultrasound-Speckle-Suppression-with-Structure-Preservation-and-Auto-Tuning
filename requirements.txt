@@ -1,0 +1,6 @@
+numpy
+pandas
+opencv-python
+SimpleITK
+matplotlib
+pytest
