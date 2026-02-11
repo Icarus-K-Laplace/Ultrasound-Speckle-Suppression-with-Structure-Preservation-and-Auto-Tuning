@@ -32,8 +32,13 @@ This project targets a practical trade-off in ultrasound enhancement:
 - **Edge ratio ≈ 0.92** indicates mild edge attenuation but still within acceptable range for denoise-structure tradeoff.
 - Overall, this pilot result demonstrates a **balanced enhancement strategy** suitable for further scaling on larger cohorts.
 
-### Visual Examples
-See `results/best_compare/best_compare_01.png` and `results/best_compare/best_compare_02.png`.
+## 🖼️ Visual Results (Best Parameters)
+
+### Case 1
+![Best Compare 01](best_compare_01.png)
+
+### Case 2
+![Best Compare 02](best_compare_02.png)
 
 ## Quick Start
 ```bash
